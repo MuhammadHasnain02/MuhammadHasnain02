@@ -1,4 +1,4 @@
-<h1><strong>         Hi 👋, I'm Muhammad Hasnain Fahad</strong></h1>
+<h1 align="center"><strong>Hi 👋, I'm Muhammad Hasnain Fahad</strong></h1>
           
 - 🌱 I’m currently learning Advanced Javascript, TypeScript, Advance Github, GSAP Animations, Supabase
 - 
