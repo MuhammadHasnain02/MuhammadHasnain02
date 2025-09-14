@@ -9,10 +9,7 @@
 - 📫 How to reach me: mrhasnain9009@gmail.com
 - 
 - Connect with me:
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+
 <!--
 **MuhammadHasnain02/MuhammadHasnain02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,7 +23,27 @@ Here are some ideas to get you started:
 - 💬 Ask me about HTMl, CSS, Tailwind Css, Bootstrap, Javascript, Advanced Javascript, TypeScript
 - 📫 How to reach me: mrhasnain9009@gmail.com
 - Connect with me:
+<p>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/hasnain.fahad.52/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/>
+  </a>
 
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/muh_hasnain/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/MuhammadHasnain02" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
+  </a>
+</p>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
