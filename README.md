@@ -14,17 +14,14 @@
   <a href="https://www.facebook.com/hasnain.fahad.52/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/>
   </a>
-
   <!-- Instagram -->
   <a href="https://www.instagram.com/muh_hasnain/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
   </a>
-
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-
   <!-- GitHub -->
   <a href="https://github.com/MuhammadHasnain02" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
