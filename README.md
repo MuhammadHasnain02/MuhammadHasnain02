@@ -9,6 +9,10 @@
 - 📫 How to reach me: mrhasnain9009@gmail.com
 - 
 - Connect with me:
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 <!--
 **MuhammadHasnain02/MuhammadHasnain02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
