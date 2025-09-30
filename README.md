@@ -19,7 +19,7 @@
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
   </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="www.linkedin.com/in/muhammad-hasnain-ali-khan-b77400385" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <!-- GitHub -->
