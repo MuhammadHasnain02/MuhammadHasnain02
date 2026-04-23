@@ -1,3 +1,14 @@
+<!-- Animated Header with Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Muhammad+Hasnain+Fahad+%F0%9F%91%8B;Frontend+Developer+%26+Creative+Coder;Building+beautiful+web+experiences;Learning+every+day+%F0%9F%8C%B1" alt="Typing SVG" />
+</p>
+
+<!-- Stats Banner - Auto-updating -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHasnain02&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHasnain02&theme=github-dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF" alt="Streak Stats" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Hasnain</h1>
 <h3 align="center">🚀 MERN Stack Developer | Building Scalable Web Apps</h3>
 
