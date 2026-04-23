@@ -1,3 +1,27 @@
+<h1 align="center"><strong>Hi 👋, I'm Muhammad Hasnain Fahad</strong></h1>
+          
+- 🌱 I’m currently learning Advanced Javascript, TypeScript, Advance Github, GSAP Animations, Supabase
+  
+- 👨‍💻 All of my projects are available at : https://github.com/MuhammadHasnain02/
+  
+- 💬 Ask me about HTMl, CSS, Tailwind Css, Bootstrap, Javascript, Advanced Javascript, TypeScript
+  
+- 📫 How to reach me: mrhasnain9009@gmail.com
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Advanced Javascript, TypeScript, Advance Github, GSAP Animations, Supabase
+- 👨‍💻 All of my projects are available at : https://github.com/MuhammadHasnain02/
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about HTMl, CSS, Tailwind Css, Bootstrap, Javascript, Advanced Javascript, TypeScript
+- 📫 How to reach me: mrhasnain9009@gmail.com
+- Connect with me:
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <!-- Animated Header with Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Muhammad+Hasnain+Fahad+%F0%9F%91%8B;Frontend+Developer+%26+Creative+Coder;Building+beautiful+web+experiences;Learning+every+day+%F0%9F%8C%B1" alt="Typing SVG" />
