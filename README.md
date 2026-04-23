@@ -54,9 +54,27 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadHasnain02&theme=github-dark&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+- 🎯 **Three-Time SMIT Hackathon Participant**
+  - 1️⃣ Mini Hackathon  
+  - 2️⃣ Final Hackathon  
+  - 3️⃣ Grand Hackathon  
+
+- 🥇 **Top 3 Position Holder**  
+  - Ranked among **100+ students** in Resume Design Challenge  
+  - 🏢 Company: **Soft Tech Cube**
+
+---
+
+## 🏆 Achievements
+
+- 🎯 **SMIT Hackathon Experience (3x Participant)**
+  - Mini Hackathon
+  - Final Hackathon
+  - Grand Hackathon
+
+- 🥇 **Top 3 Rank Holder**
+  - Resume Design Challenge (Among 100+ Students)
+  - 🏢 Organized by Soft Tech Cube
 
 ---
 
