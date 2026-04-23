@@ -3,20 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Muhammad+Hasnain+%F0%9F%91%8B;MERN+Stack+Developer;Building+Scalable+web+Apps;Learning+every+day+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Muhammad+Hasnain+👋;MERN+Stack+Developer;Frontend+%2B+Backend+Problem+Solver;Building+Modern+Web+Applications;Always+Learning+New+Tech+🚀" alt="Typing SVG" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 💼 MERN Stack Developer passionate about modern web technologies  
-- 🌱 Currently learning **TypeScript, PostgreSQL, Socket.IO, React Native, Linux, Cloud Deployment**  
-- 💳 Exploring **PayPal Payment Integration & Mobile App Publishing**  
-- ⚡ Love building real-world SaaS & management systems  
-- 📫 Reach me at: **mrhasnain9009@gmail.com**  
-
 ---
 
 ## 📊 GitHub Stats
@@ -28,6 +14,8 @@
 </p>
 
 ---
+
+## 👨‍💻 About Me
 
 ## 🛠️ Tech Stack & Tools
 
