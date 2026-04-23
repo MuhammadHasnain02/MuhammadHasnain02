@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Muhammad+Hasnain+%F0%9F%91%8B;MERN+Stack+Developer;Building+Scalable+web+Apps;Learning+every+day+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Muhammad Hasnain</h1>
-<h3 align="center">🚀 MERN Stack Developer | Building Scalable Web Apps</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Muhammad+Hasnain+👋;MERN+Stack+Developer;Frontend+%2B+Backend+Problem+Solver;Building+Modern+Web+Applications;Always+Learning+New+Tech+🚀" alt="Typing SVG" />
 </p>
