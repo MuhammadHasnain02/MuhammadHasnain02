@@ -55,9 +55,9 @@
 ## 🏆 Achievements
 
 - 🎯 **Three-Time SMIT Hackathon Participant**
-  - 1️⃣ Mini Hackathon  
-  - 2️⃣ Final Hackathon  
-  - 3️⃣ Grand Hackathon  
+  - 1️⃣ Mini Hackathon -> PitchCraft – Your AI Startup Partner
+  - 2️⃣ Final Hackathon -> AI Clinic Management + Smart Diagnosis SaaS
+  - 3️⃣ Grand Hackathon -> Helplytics AI – Community Support Platform
 
 - 🥇 **Top 3 Position Holder**  
   - Ranked among **100+ students** in Resume Design Challenge  
@@ -68,9 +68,9 @@
 ## 🏆 Achievements
 
 - 🎯 **SMIT Hackathon Experience (3x Participant)**
-  - Mini Hackathon
-  - Final Hackathon
-  - Grand Hackathon
+  - Mini Hackathon -> PitchCraft – Your AI Startup Partner
+  - Final Hackathon -> AI Clinic Management + Smart Diagnosis SaaS
+  - Grand Hackathon -> Helplytics AI – Community Support Platform
 
 - 🥇 **Top 3 Rank Holder**
   - Resume Design Challenge (Among 100+ Students)
