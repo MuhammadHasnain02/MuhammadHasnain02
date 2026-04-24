@@ -5,16 +5,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHasnain02&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&bg_color=0d1117" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHasnain02&theme=github-dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF" />
-</p>
-
----
-
 <!-- ## 👨‍💻 About Me -->
 
 ## 🛠️ Tech Stack & Tools
@@ -62,6 +52,16 @@
 - 🥇 **Top 3 Rank Holder**
   - Resume Design Challenge (Among 100+ Students)
   - 🏢 Organized by Soft Tech Cube
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHasnain02&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&bg_color=0d1117" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHasnain02&theme=github-dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF" />
+</p>
 
 ---
 
