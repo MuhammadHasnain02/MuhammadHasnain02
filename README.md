@@ -19,13 +19,29 @@
 
 ## 🌱 Currently Learning
 
-- ✅ TypeScript Advanced Concepts  
-- ✅ PostgreSQL Database Design  
-- ✅ Socket.IO Real-Time Apps  
-- ✅ React Native Mobile Apps  
-- ✅ Linux Basics & Server Management  
-- ✅ Google Cloud Deployment  
-- ✅ IOS & Android App Publishing  
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,postgres,react,nodejs,linux,gcp,apple,androidstudio" />
+
+</p>
+
+<p align="center">
+
+🚀 TypeScript Advanced Concepts &nbsp;&nbsp; • &nbsp;&nbsp;
+🗄️ PostgreSQL Database Design &nbsp;&nbsp; • &nbsp;&nbsp;
+⚡ Socket.IO Real-Time Apps &nbsp;&nbsp; • &nbsp;&nbsp;
+📱 React Native Mobile Apps  
+
+</p>
+
+<p align="center">
+
+🐧 Linux Basics & Server Management &nbsp;&nbsp; • &nbsp;&nbsp;
+☁️ Google Cloud Deployment &nbsp;&nbsp; • &nbsp;&nbsp;
+🍎 IOS App Publishing &nbsp;&nbsp; • &nbsp;&nbsp;
+🤖 Android App Publishing
+
+</p>
 
 ---
 
