@@ -129,5 +129,5 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadHasnain02/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/MuhammadHasnain02/MuhammadHasnain02/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
