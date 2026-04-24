@@ -17,31 +17,33 @@
 
 ---
 
-## 🌱 Currently Learning
-
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,postgres,react,nodejs,linux,gcp,apple,androidstudio" />
 
-</p>
+</p> -->
+
+## 🌱 Currently Learning
 
 <p align="center">
-
-🚀 TypeScript Advanced Concepts &nbsp;&nbsp; • &nbsp;&nbsp;
-🗄️ PostgreSQL Database Design &nbsp;&nbsp; • &nbsp;&nbsp;
-⚡ Socket.IO Real-Time Apps &nbsp;&nbsp; • &nbsp;&nbsp;
-📱 React Native Mobile Apps  
-
+  <img src="https://skillicons.dev/icons?i=ts,postgres,react,nodejs,linux,gcp,apple,androidstudio" />
 </p>
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">🚀 TypeScript<br/>Advanced Concepts</td>
+<td align="center">🗄️ PostgreSQL<br/>Database Design</td>
+<td align="center">⚡ Socket.IO<br/>Real-Time Apps</td>
+<td align="center">📱 React Native<br/>Mobile Apps</td>
+</tr>
 
-🐧 Linux Basics & Server Management &nbsp;&nbsp; • &nbsp;&nbsp;
-☁️ Google Cloud Deployment &nbsp;&nbsp; • &nbsp;&nbsp;
-🍎 IOS App Publishing &nbsp;&nbsp; • &nbsp;&nbsp;
-🤖 Android App Publishing
-
-</p>
+<tr>
+<td align="center">🐧 Linux Basics<br/>& Server Management</td>
+<td align="center">☁️ Google Cloud<br/>Deployment</td>
+<td align="center">🍎 IOS App<br/>Publishing</td>
+<td align="center">🤖 Android App<br/>Publishing</td>
+</tr>
+</table>
 
 ---
 
