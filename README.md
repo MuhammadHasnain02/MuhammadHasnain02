@@ -56,7 +56,6 @@
 
 ## 💻 Featured Projects
 
-<p align="center">
 | 🚀 Project Name | 💡 Description |
 |--------|------------|
 | **DineFlow Pro** | Smart Restaurant Management System |
@@ -65,7 +64,6 @@
 | **Helplytics AI** | AI-Powered Community Support Platform |
 | **MediAI SaaS** | Smart Diagnosis + Clinic Management |
 | **CVForge Pro** | Professional Resume Builder App |
-</p>
 
 ---
 
