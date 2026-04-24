@@ -5,7 +5,14 @@
 
 ---
 
-<!-- ## 👨‍💻 About Me -->
+## 👨‍💻 About Me 
+
+- 🚀 MERN Stack Developer passionate about scalable web apps
+- 💡 Focused on Frontend + Backend + SaaS Products
+- 🌱 Always learning modern technologies
+- 🎯 Goal: Become Industry-Level Full Stack Engineer
+
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -116,3 +123,9 @@
 <p align="center">
   <b>⚡ Building Today for Tomorrow's Web</b>
 </p>
+
+---
+
+## 🐍 Contribution Graph
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
